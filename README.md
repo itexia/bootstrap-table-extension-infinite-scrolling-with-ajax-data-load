@@ -1,0 +1,1 @@
+# bootstrap-table-extension-infinite-scrolling-with-ajax-data-load
